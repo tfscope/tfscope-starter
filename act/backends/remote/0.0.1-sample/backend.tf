@@ -1,4 +1,3 @@
-# v0-sample — reference only
 terraform {
   backend "s3" {
     endpoints = {
